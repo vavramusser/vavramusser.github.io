@@ -13,9 +13,17 @@ Education
 ======
 * B.S. in Biology from the University of Chicago, 2009
 * M.S. in Global Health and Environment from the University of California, Berkeley, 2015
-* Ph.D in Population, Health, and Place from the University of Southern California, 2022 (expected)
+* Ph.D in Population, Health, and Place from the University of Southern California, May 2022 (expected)
 
-Work experience
+Fellowships
+======
+* DS4A Fellow, 2020-2021 Cohort
+  * Correlation-One Data Science for All (DS4A) Empowerment Program
+* 2019 AAG-UCGIS Summer School Fellow
+  * Program Topic: Reproducible Problem Solving with CyberGIS and Geospatial Data Science
+  * American Association of Geographiers (AAG) and University Consortium for Geographic Information Science (UCGIS)
+
+Work Experience
 ======
 * May 2020 - present: Research Assistant
   * University of Southern California School of Gerontology (Los Angeles, CA)
@@ -60,6 +68,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Women in Geospatial+ (WIG+): October 2020 - present
+  * Mentorship Program Team: October 2020 - present
+  * Mentor: October 2020 - present
+* University Consortium for Geographic Information Science (UCGIS): August 2017 - present
+  * Communications Committee: December 2019 - present
+  * AAG-UCGIS 2019 Summer Fellow
+
+Service and Leadership as a Graduate Student at the University of Southern California
+======
+* University of Southern California Graduate Student Government (GSG): August 2020 - present
+  * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
+  * Sustainability Committee: August 2020 - present
+  * Childcare and Emergency Funding Review Committee: August 2020 - present
+* University of Southern California Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
+  * Research Committee: January 2019 - present
+* University of Southern California Population, Health, and Place Doctoral Student Association (PHPDSA): August 2018 - present
+  * Co-Founder August 2018
+  * Coordinator: August 2018 - present
+  * Spatial Sciences Institute All-Institute Meeting Doctoral Student Liaison: August 2018 - August 2019, August 2020 - present
+  * Dornsife Graduate Student Association (DGSA) Population, Health, and Place Program Representative: January 2020 - present
