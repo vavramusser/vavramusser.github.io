@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Kate Vavra-Musser"
 title_separator          : "-"
 name                     : &name "Kate Vavra-Musser"
-description              : &description "personal description"
+description              : &description "PhD Candidate at the University of Southern California"
 url                      : https://vavramusser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vavramusser/vavramusser.github.io"
+repository               : "vavramusser.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
