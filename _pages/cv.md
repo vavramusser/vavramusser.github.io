@@ -90,5 +90,5 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
 * Population, Health, and Place Doctoral Student Association (PHPDSA): August 2018 - present
   * Co-Founder August 2018
   * Coordinator: August 2018 - present
-  * Spatial Sciences Institute All-Institute Meeting Doctoral Student Liaison: August 2018 - August 2019, August 2020 - present
+  * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - August 2019, August 2020 - present
   * DGSA Population, Health, and Place Program Representative: January 2020 - present
