@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology from the University of Chicago, 2009
+* M.S. in Global Health and Environment from the University of California, Berkeley, 2015
+* Ph.D in Population, Health, and Place from the University of Southern California, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - present: Research Assistant
+  * University of Southern California School of Gerontology (Los Angeles, CA)
+  * Supervisor: Dr. Jennifer Ailshire
+  
+* January - May 2019: Research Assistant
+  * University of Southern California Department of Preventative Medicine (Los Angeles, CA)
+  * Supervisors: Dr. Jill Johnston, Dr. Meredith Franklin, Dr. Lara Cushing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2015 - July 2017: Research and Consulting Assistant
+  * The Life Expectancy Project (San Francisco, CA)
+  * Supervisors: Dr. Robert Shavelle, Dr. Jordan Brooks, Dr. David Strauss
+
+* January 2012 - June 2013: Epidemiology, Endocrinology, and Wildlife Disease Fellow
+  * Lincoln Park Zoo (Chicago, IL)
+  * Supervisors: Dr. Robert Shavelle, Dr. Jordan Brooks, Dr. David Strauss
   
 Skills
 ======
