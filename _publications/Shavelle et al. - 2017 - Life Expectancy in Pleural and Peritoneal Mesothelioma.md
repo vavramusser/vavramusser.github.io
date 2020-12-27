@@ -12,4 +12,4 @@ Data on 10,258 pleural and 1,229 peritoneal patients from the SEER US national c
 
 [Download paper here](http://vavramusser.github.io/files/Shavelle et al. - 2017 - Life Expectancy in pleural and Peritoneal Mesothelioma.pdf)
 
-R Shavelle, K Vavra-Musser, et al. (2017). "Life Expectancy in Pleural and Peritoneal Mesothelioma." <i>Lung Cancer International</i>.
+Recommended citation: R Shavelle, K Vavra-Musser, et al. (2017). "Life Expectancy in Pleural and Peritoneal Mesothelioma." <i>Lung Cancer International</i>.
