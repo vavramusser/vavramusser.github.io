@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Life Expectancy in Pleural and Peritoneal Mesothelioma"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Data on 10,258 pleural and 1,229 peritoneal patients from the SEER US national cancer database, 1973–2011, were analyzed using the Cox proportional hazards regression model.  The major factors related to survival were age, sex, stage, grade, histology, and treatment. Survival improved only modestly over the study period: 0.5% per year for pleural and 2% for peritoneal.'
+date: 2017
+venue: 'Lung Cancer International'
+paperurl: 'https://downloads.hindawi.com/archive/2017/2782590.pdf'
+citation: 'R Shavelle, K Vavra-Musser, et al. (2017). &quot;Life Expectancy in Pleural and Peritoneal Mesothelioma.&quot; <i>Lung Cancer International</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Data on 10,258 pleural and 1,229 peritoneal patients from the SEER US national cancer database, 1973–2011, were analyzed using the Cox proportional hazards regression model.  The major factors related to survival were age, sex, stage, grade, histology, and treatment. Survival improved only modestly over the study period: 0.5% per year for pleural and 2% for peritoneal.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Shavelle et al. - 2017 - Life Expectancy in pleural and Peritoneal Mesothelioma.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: R Shavelle, K Vavra-Musser, et al. (2017). "Life Expectancy in Pleural and Peritoneal Mesothelioma." <i>Lung Cancer International</i>.
