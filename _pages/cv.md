@@ -15,14 +15,6 @@ Education
 * M.S. in Global Health and Environment from the University of California, Berkeley, 2015
 * Ph.D in Population, Health, and Place from the University of Southern California, May 2022 (expected)
 
-Fellowships
-======
-* DS4A Fellow, 2020-2021 Cohort
-  * Correlation-One Data Science for All (DS4A) Empowerment Program
-* 2019 AAG-UCGIS Summer School Fellow
-  * Program Topic: Reproducible Problem Solving with CyberGIS and Geospatial Data Science
-  * American Association of Geographiers (AAG) and University Consortium for Geographic Information Science (UCGIS)
-
 Work Experience
 ======
 * May 2020 - present: **Research Assistant**
@@ -42,6 +34,14 @@ Work Experience
 * January 2012 - June 2013: **Epidemiology, Endocrinology, and Wildlife Disease Fellow**
   * *Lincoln Park Zoo (Chicago, IL)*
   * Supervisors: [Dr. Yvonne Nadler](https://www.linkedin.com/in/nadler-yvonne-a9683429), [Dr. Rachel Santymire](https://www.linkedin.com/in/rachel-santymire-81a6572a), [Lisa Faust](https://www.linkedin.com/in/lisa-faust-a5b23450)
+  
+Fellowships
+======
+* DS4A Fellow, 2020-2021 Cohort
+  * Correlation-One Data Science for All (DS4A) Empowerment Program
+* 2019 AAG-UCGIS Summer School Fellow
+  * Program Topic: Reproducible Problem Solving with CyberGIS and Geospatial Data Science
+  * American Association of Geographiers (AAG) and University Consortium for Geographic Information Science (UCGIS)
   
 Publications
 ======
