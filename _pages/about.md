@@ -17,17 +17,11 @@ I am currently a fourth year PhD candidate in the [Population, Health, and Place
 
 My work and personal goals focus on using data-driven methods and spatial perspectives to solve environmental health and environmental justice issues.  I believe that, through research and creative approaches to data and analysis, we can identify and solve our world’s environmental and social problems and create a better future for everyone.
 
-You can find out more about my past research and background by taking a look at my previous [publications](https://vavramusser.github.io/publications) and my [CV]( https://vavramusser.github.io/cv).
+You can find out more about my past research and background by taking a look at my previous [publications](https://vavramusser.github.io/publications) and my [CV]( https://vavramusser.github.io/cv). The sections below provide additional updates on research and projects I am working on right now.
 
-The sections below provide additional updates on research and projects I am working on right now.
-
-If you would like to get in touch with me, I am available via [email](vavramusser@gmail.com) or for [remote meetings]( https://calbird.com/kate-vavramusser/remote) over Zoom.
+If you would like to get in touch, I am available via [email](vavramusser@gmail.com) or for [remote meetings]( https://calbird.com/kate-vavramusser/remote).
 
 
-
-
-My Current Work and Projects
-======
 
 **Data Science for All (DS4A) Empowerment Inagural 2020-2021 Cohort**
 ------
