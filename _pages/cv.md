@@ -25,22 +25,22 @@ Fellowships
 
 Work Experience
 ======
-* May 2020 - present: Research Assistant
-  * University of Southern California School of Gerontology (Los Angeles, CA)
+* May 2020 - present: **Research Assistant**
+  * *University of Southern California School of Gerontology (Los Angeles, CA)*
   * Supervisor: [Dr. Jennifer Ailshire](https://gero.usc.edu/faculty/ailshire)
   * Collegues: Sarah Mawhorter, Emily Serman, [Amisha Singh](https://www.linkedin.com/in/amishasingh13102), Rachel Wilkie
   
-* January - May 2019: Research Assistant
-  * University of Southern California Department of Preventative Medicine (Los Angeles, CA)
+* January - May 2019: **Research Assistant**
+  * *University of Southern California Department of Preventative Medicine (Los Angeles, CA)*
   * Supervisors: [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Lara Cushing](https://www.linkedin.com/in/lara-cushing)
   * Collegues: [Ken Chau](https://www.linkedin.com/in/ken-chau-05b35323)
 
-* July 2015 - July 2017: Research and Consulting Assistant
-  * The Life Expectancy Project (San Francisco, CA)
+* July 2015 - July 2017: **Research and Consulting Assistant**
+  * *The Life Expectancy Project (San Francisco, CA)*
   * Supervisors: [Dr. Robert Shavelle](https://www.linkedin.com/in/robert-shavelle-phd-faacpdm-a883b041), [Dr. Jordan Brooks](https://www.linkedin.com/in/jordancbrooks), Dr. David Strauss
 
-* January 2012 - June 2013: Epidemiology, Endocrinology, and Wildlife Disease Fellow
-  * Lincoln Park Zoo (Chicago, IL)
+* January 2012 - June 2013: **Epidemiology, Endocrinology, and Wildlife Disease Fellow**
+  * *Lincoln Park Zoo (Chicago, IL)*
   * Supervisors: [Dr. Yvonne Nadler](https://www.linkedin.com/in/nadler-yvonne-a9683429), [Dr. Rachel Santymire](https://www.linkedin.com/in/rachel-santymire-81a6572a), [Lisa Faust](https://www.linkedin.com/in/lisa-faust-a5b23450)
   
 Publications
