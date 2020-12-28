@@ -26,6 +26,9 @@ If you would like to get in touch with me, I am available via [email](vavramusse
 
 
 
+My Current Work and Projects
+======
+
 **Data Science for All (DS4A) Empowerment Inagural 2020-2021 Cohort**
 ------
 
