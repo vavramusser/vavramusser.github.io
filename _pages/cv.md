@@ -20,12 +20,12 @@ Work Experience
 * May 2020 - present: **Research Assistant**
   * *University of Southern California School of Gerontology (Los Angeles, CA)*
   * Supervisor: [Dr. Jennifer Ailshire](https://gero.usc.edu/faculty/ailshire)
-  * Collegues: Sarah Mawhorter, Emily Serman, [Amisha Singh](https://www.linkedin.com/in/amishasingh13102), Rachel Wilkie
+  * Colleagues: Sarah Mawhorter, Emily Serman, [Amisha Singh](https://www.linkedin.com/in/amishasingh13102), Rachel Wilkie
   
 * January - May 2019: **Research Assistant**
   * *University of Southern California Department of Preventative Medicine (Los Angeles, CA)*
   * Supervisors: [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Lara Cushing](https://www.linkedin.com/in/lara-cushing)
-  * Collegues: [Ken Chau](https://www.linkedin.com/in/ken-chau-05b35323)
+  * Colleagues: [Ken Chau](https://www.linkedin.com/in/ken-chau-05b35323)
 
 * July 2015 - July 2017: **Research and Consulting Assistant**
   * *The Life Expectancy Project (San Francisco, CA)*
