@@ -69,6 +69,7 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
+  * Teaching Assistant Payroll Working Group: December 2020 - present
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
 * Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
