@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology from the University of Chicago, 2009
-* M.S. in Global Health and Environment from the University of California, Berkeley, 2015
-* Ph.D in Population, Health, and Place from the University of Southern California, May 2022 (expected)
+* B.S. in Biology from the ***University of Chicago***, 2009
+* M.S. in Global Health and Environment from the ***University of California, Berkeley***, 2015
+* Ph.D in Population, Health, and Place from the ***University of Southern California***, May 2022 (expected)
 
 Work Experience
 ======
