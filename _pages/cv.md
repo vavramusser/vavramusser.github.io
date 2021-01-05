@@ -45,8 +45,8 @@ Fellowships
   * Colleagues: [Emily Flores](https://www.linkedin.com/in/emily-flores-gaspar), [Mikio Harman](https://www.linkedin.com/in/mikioharman), [Eugenia Miller](https://www.linkedin.com/in/eugenia-miller), [Vitor Olusajo](https://www.linkedin.com/in/victorolusajo)
 * 2019 AAG-UCGIS Summer School Fellow
   * Program Topic: Reproducible Problem Solving with CyberGIS and Geospatial Data Science
-  * American Association of Geographiers (AAG) and University Consortium for Geographic Information Science (UCGIS)
-  * Advisor: [Alberto Giordano](https://www.linkedin.com/in/alberto-giordano-22707a99), [Diana Sinton](https://www.linkedin.com/in/diana-sinton-6a261b17)
+  * The American Association of Geographiers (AAG) and The University Consortium for Geographic Information Science (UCGIS)
+  * Advisors: [Alberto Giordano](https://www.linkedin.com/in/alberto-giordano-22707a99), [Diana Sinton](https://www.linkedin.com/in/diana-sinton-6a261b17)
   
 Publications
 ======
