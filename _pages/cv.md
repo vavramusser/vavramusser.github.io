@@ -37,6 +37,8 @@ Work Experience
   
 Fellowships
 ======
+* 2021 Technology Education Grant Recepient
+  * Serenze Global and Pluralsight
 * DS4A Fellow, 2020-2021 Cohort
   * Correlation-One Data Science for All (DS4A) Empowerment Program
 * 2019 AAG-UCGIS Summer School Fellow
