@@ -54,9 +54,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+  
 Service and Leadership
 ======
+* Mechanism Design for Social Good (MDSG): November 2020 - present
+  * Communication Team Content Editor: January 2021 - present
 * Women in Geospatial+ (WIG+): October 2020 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
@@ -71,6 +73,8 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
   * Teaching Assistant Payroll Working Group: December 2020 - present
+  * Research Committee: January 2021 - present
+    ** Founder January 2021
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
 * Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
@@ -80,3 +84,10 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Coordinator: August 2018 - present
   * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - present
   * DGSA Population, Health, and Place Program Representative: January 2020 - present
+
+Other Projects and Activities
+======
+* AI for Good Simulator: December 2020 - present
+  * Public Health and Epidemiology Academic Affiliate
+* COVID Community Vulnerability Index: September 2020 - present
+  * GIS and Dashboard Team
