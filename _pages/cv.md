@@ -19,12 +19,12 @@ Work Experience
 ======
 * May 2020 - present: **Research Assistant**
   * ***University of Southern California School of Gerontology** (Los Angeles, CA)*
-  * Supervisor: [Dr. Jennifer Ailshire](https://gero.usc.edu/faculty/ailshire)
+  * Primary Investigator: [Dr. Jennifer Ailshire](https://gero.usc.edu/faculty/ailshire)
   * Colleagues: Sarah Mawhorter, Emily Serman, [Amisha Singh](https://www.linkedin.com/in/amishasingh13102), Rachel Wilkie
   
 * January - May 2019: **Research Assistant**
   * ***University of Southern California Department of Preventative Medicine** (Los Angeles, CA)*
-  * Supervisors: [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Lara Cushing](https://www.linkedin.com/in/lara-cushing)
+  * Primary Investigators: [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Lara Cushing](https://www.linkedin.com/in/lara-cushing)
   * Colleagues: [Ken Chau](https://www.linkedin.com/in/ken-chau-05b35323)
 
 * July 2015 - July 2017: **Research and Consulting Assistant**
@@ -74,7 +74,7 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Childcare and Emergency Funding Review Committee: August 2020 - present
   * Teaching Assistant Payroll Working Group: December 2020 - present
   * Research Committee: January 2021 - present
-    ** Founder January 2021
+    * Founder January 2021
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
 * Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
