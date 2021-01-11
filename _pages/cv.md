@@ -60,6 +60,7 @@ Service and Leadership
 * Mechanism Design for Social Good (MDSG): November 2020 - present
   * Communication Team Content Editor: January 2021 - present
 * Women in Geospatial+ (WIG+): October 2020 - present
+  * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
 * University Consortium for Geographic Information Science (UCGIS): August 2017 - present
