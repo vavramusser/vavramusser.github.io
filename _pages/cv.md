@@ -74,6 +74,7 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
   * Teaching Assistant Payroll Working Group: December 2020 - present
+  * Institutional Access and Inclusivity Committee: January 2021 - present
   * Research Committee: January 2021 - present
     * Founder January 2021
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
