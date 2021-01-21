@@ -54,18 +54,34 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and Leadership
+ 
+Other Projects and Activities
 ======
+* AI for Good Simulator: December 2020 - present
+  * Public Health and Epidemiology Academic Affiliate
+* COVID Community Vulnerability Index: September 2020 - present
+  * GIS and Dashboard Team
+  
+Professional Organizations and Leadership
+======
+* American Association of Geographers (AAG): 2017 - present
+* Association for Computing Machinery (ACM): 2019 - present
+  * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
 * Mechanism Design for Social Good (MDSG): November 2020 - present
   * Communication Team Content Editor: January 2021 - present
+* Notrh American Cartographic Information Society (NAICS): 2020 - present
+* Society for Conservation Geographical Information Science (SCGIS): 2018 - present
+* University Consortium for Geographic Information Science (UCGIS): August 2017 - present
+  * Communications Committee: December 2019 - present
+  * AAG-UCGIS 2019 Summer Fellow
+* Urban and Regional Information Systems Association (URISA): 2017 - present
+* Women in Analytics (WIA): 2020 - present
+* Women in Data (WID): 2020 - present
+* Women in Geographical Information Science (WIG): 2018 - present
 * Women in Geospatial+ (WIG+): October 2020 - present
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
-* University Consortium for Geographic Information Science (UCGIS): August 2017 - present
-  * Communications Committee: December 2019 - present
-  * AAG-UCGIS 2019 Summer Fellow
 
 Service and Leadership as a Graduate Student at the University of Southern California
 ======
@@ -76,7 +92,8 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Teaching Assistant Payroll Working Group: December 2020 - present
   * Institutional Access and Inclusivity Committee: January 2021 - present
   * Research Committee: January 2021 - present
-    * Founder January 2021
+    * Co-Chair: January 2021 - present
+    * Co-Founder: January 2021
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
 * Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
@@ -86,10 +103,3 @@ Service and Leadership as a Graduate Student at the University of Southern Calif
   * Coordinator: August 2018 - present
   * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - present
   * DGSA Population, Health, and Place Program Representative: January 2020 - present
-
-Other Projects and Activities
-======
-* AI for Good Simulator: December 2020 - present
-  * Public Health and Epidemiology Academic Affiliate
-* COVID Community Vulnerability Index: September 2020 - present
-  * GIS and Dashboard Team
