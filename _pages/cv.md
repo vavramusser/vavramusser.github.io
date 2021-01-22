@@ -42,7 +42,7 @@ Teaching (University Level)
   * Fall 2019: Sustinability Science in the City - teaching assistant and laboratory instructor
 * University of California, Berkeley
   * Spring 2015: Brain, Mind, and Behavior - teaching assistant and discussion instructor
-  * Fall 2014: Medical Ethnobotany - laboratory instructor
+  * Fall 2014: Medical Ethnobotany - laboratory instructor and field instructor
   * Spring 2014: Introduction to Biology - teaching assistant and discussion instructor
   
 Fellowships
