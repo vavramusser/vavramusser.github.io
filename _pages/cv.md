@@ -55,12 +55,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Other Projects and Activities
+Other Ongoing Research
 ======
-* AI for Good Simulator: December 2020 - present
-  * Public Health and Epidemiology Academic Affiliate
-* COVID Community Vulnerability Index: September 2020 - present
-  * GIS and Dashboard Team
+* Data Science for Social Good (DSSG)
+  * AI for Good Simulator: December 2020 - present
+    * Public Health and Epidemiology Academic Affiliate
+  * COVID Community Vulnerability Index: September 2020 - present
+    * GIS and Dashboard Team
   
 Professional Organizations
 ======
