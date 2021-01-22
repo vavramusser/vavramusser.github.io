@@ -69,6 +69,7 @@ Professional Organizations and Leadership
   * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
 * Mechanism Design for Social Good (MDSG): November 2020 - present
   * Communication Team Content Editor: January 2021 - present
+  * Environment and Climate Working Group: January 2021 - present
 * Notrh American Cartographic Information Society (NAICS): 2020 - present
 * Society for Conservation Geographical Information Science (SCGIS): 2018 - present
 * University Consortium for Geographic Information Science (UCGIS): August 2017 - present
