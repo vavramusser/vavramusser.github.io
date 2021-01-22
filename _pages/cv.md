@@ -15,7 +15,7 @@ Education
 * M.S. in Global Health and Environment from the ***University of California, Berkeley***, 2015
 * Ph.D in Population, Health, and Place from the ***University of Southern California***, May 2022 (expected)
 
-Work Experience
+Work and Research
 ======
 * May 2020 - present: **Research Assistant**
   * ***University of Southern California School of Gerontology** (Los Angeles, CA)*
@@ -34,6 +34,17 @@ Work Experience
 * January 2012 - June 2013: **Epidemiology, Endocrinology, and Wildlife Disease Fellow**
   * ***Lincoln Park Zoo** (Chicago, IL)*
   * Supervisors: [Dr. Yvonne Nadler](https://www.linkedin.com/in/nadler-yvonne-a9683429), [Dr. Rachel Santymire](https://www.linkedin.com/in/rachel-santymire-81a6572a), [Lisa Faust](https://www.linkedin.com/in/lisa-faust-a5b23450)
+
+Teaching (University Level)
+======
+* University of Southern California
+  * Spring 2020: The Water Planet
+  * Fall 2019: Sustinability Science in the City
+  * Fall 2018: The Water Planet
+* University of California, Berkeley
+  * Spring 2015: Brain, Mind, and Behavior
+  * Fall 2014: Medical Ethnobotany
+  * Spring 2014: Introduction to Biology
   
 Fellowships
 ======
