@@ -62,29 +62,30 @@ Other Projects and Activities
 * COVID Community Vulnerability Index: September 2020 - present
   * GIS and Dashboard Team
   
-Professional Organizations and Leadership
+Professional Organizations
 ======
-* American Association of Geographers (AAG): 2017 - present
-* Association for Computing Machinery (ACM): 2019 - present
-  * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
-* Mechanism Design for Social Good (MDSG): November 2020 - present
-  * Communication Team Content Editor: January 2021 - present
-  * Environment and Climate Working Group: January 2021 - present
-* Notrh American Cartographic Information Society (NAICS): 2020 - present
-* Society for Conservation Geographical Information Science (SCGIS): 2018 - present
 * University Consortium for Geographic Information Science (UCGIS): August 2017 - present
   * Communications Committee: December 2019 - present
   * AAG-UCGIS 2019 Summer Fellow
-* Urban and Regional Information Systems Association (URISA): 2017 - present
-* Women in Analytics (WIA): 2020 - present
-* Women in Data (WID): 2020 - present
-* Women in Geographical Information Science (WIG): 2018 - present
 * Women in Geospatial+ (WIG+): October 2020 - present
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
+* Mechanism Design for Social Good (MDSG): November 2020 - present
+  * Communication Team Content Editor: January 2021 - present
+  * Environment and Climate Working Group: January 2021 - present
+  
+* American Association of Geographers (AAG): 2017 - present
+* Association for Computing Machinery (ACM): 2019 - present
+  * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
+* North American Cartographic Information Society (NAICS): 2020 - present
+* Society for Conservation Geographical Information Science (SCGIS): 2018 - present
+* Urban and Regional Information Systems Association (URISA): 2017 - present
+* Women in Analytics (WIA): 2020 - present
+* Women in Data (WID): 2020 - present
+* Women in Geographical Information Science (WIG): 2018 - present
 
-Service and Leadership as a Graduate Student at the University of Southern California
+Service and Leadership at the University of Southern California
 ======
 * Graduate Student Government (GSG): August 2020 - present
   * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
