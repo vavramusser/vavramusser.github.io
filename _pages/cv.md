@@ -80,6 +80,7 @@ Professional Organizations
   * AAG-UCGIS 2019 Summer Fellow
 * Women in Geospatial+ (WIG+): October 2020 - present
   * Steering Committee: January 2021 - present
+    * Initiatives Team Lead: February 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
 * Mechanism Design for Social Good (MDSG): November 2020 - present
