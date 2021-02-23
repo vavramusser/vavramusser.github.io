@@ -110,10 +110,10 @@ Service and Leadership at the University of Southern California
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
   * Teaching Assistant Payroll Working Group: December 2020 - present
-  * Institutional Access and Inclusivity Committee: January 2021 - present
   * Research Committee: January 2021 - present
-      * Co-Founder: January 2021
-      * Co-Chair: January 2021 - present
+    * Co-Founder: January 2021
+    * Co-Chair: January 2021 - present
+  * Institutional Access and Inclusivity Committee: January 2021 - present
 * Dornsife Graduate Student Association (DGSA): January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
 * Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
