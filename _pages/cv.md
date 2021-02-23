@@ -82,6 +82,7 @@ Professional Organizations
 ======
 * University Consortium for Geographic Information Science (UCGIS): August 2017 - present
   * Communications Committee: December 2019 - present
+    * Communications Committee Co-Chair: February 2021 - present
   * AAG-UCGIS 2019 Summer Fellow
 * Women in Geospatial+ (WIG+): October 2020 - present
   * Initiatives Team Lead: February 2021 - present
