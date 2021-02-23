@@ -52,6 +52,7 @@ Fellowships
 * [Equity + Ethics in Data Workshop](https://www.latech4good.org/dataworkshop), February 2021 Cohort
   * [Los Angeles Tech4Good](https://www.latech4good.org)
   * Scholarship Recepient
+  * Workshop Leads: [Rachel Whaley](https://www.linkedin.com/in/rachelrwhaley) and [Karen Borchgrevink](https://www.linkedin.com/in/kborchgrevink)
 * 2021 Technology Education Grant Recepient
   * Serenze Global and Pluralsight
 * DS4A Fellow, 2020-2021 Cohort
