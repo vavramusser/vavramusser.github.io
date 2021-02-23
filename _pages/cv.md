@@ -49,6 +49,9 @@ Fellowships
 ======
 * 2021 Summer Data Science Fellow with the United States Census Bureau
   * [Coding it Forward Civic Digital Summer Fellow](https://www.codingitforward.com/civic-digital-fellowship)
+* [Equity + Ethics in Data Workshop](https://www.latech4good.org/dataworkshop), February 2021 Cohort
+  * [Los Angeles Tech4Good](https://www.latech4good.org)
+  * Scholarship Recepient
 * 2021 Technology Education Grant Recepient
   * Serenze Global and Pluralsight
 * DS4A Fellow, 2020-2021 Cohort
