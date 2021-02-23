@@ -31,8 +31,7 @@ I am very excited to report that I will be giving a lightning at the [2021 Los A
 
 
 
-**United States Census Bureau Data Science Summer Fellow**
-**Coding it Forward Civic Digital Fellowship**
+**United States Census Bureau Data Science Summer Fellow* - Coding it Forward Civic Digital Fellowship**
 ------
 
 This summer I will be a member of the [Civic Digital Fellowship](https://www.codingitforward.com/civic-digital-fellowship) program with [Coding it Forward](https://www.codingitforward.com).  I am so excited to report that, through the Civic Digital Fellowship program, I have been paired with the United States Census Bureau to support a series of projects focused on survey redesign and rescoping using machine learning methods.  The fellowship is expected to run from June 7th until August 13, 2021.
