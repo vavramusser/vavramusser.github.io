@@ -90,6 +90,8 @@ Professional Organizations
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
+* Urban and Regional Information Systems Association (URISA): 2017 - present
+  * Mentor: February 2021 - present 
 * Mechanism Design for Social Good (MDSG): November 2020 - present
   * Communication Team Content Editor: January 2021 - present
   * Environment and Climate Working Group: January 2021 - present
@@ -99,7 +101,6 @@ Professional Organizations
   * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
 * North American Cartographic Information Society (NAICS): 2020 - present
 * Society for Conservation Geographical Information Science (SCGIS): 2018 - present
-* Urban and Regional Information Systems Association (URISA): 2017 - present
 * Women in Analytics (WIA): 2020 - present
 * Women in Data (WID): 2020 - present
 * Women in Geographical Information Science (WIG): 2018 - present
