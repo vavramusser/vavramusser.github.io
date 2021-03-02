@@ -107,7 +107,7 @@ Professional Organizations
 
 Service and Leadership at the University of Southern California
 ======
-* **Graduate Student Government (GSG)**: August 2020 - present
+* **Graduate Student Government (GSG)**: 2020 - present
   * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
@@ -116,11 +116,11 @@ Service and Leadership at the University of Southern California
     * Co-Founder: January 2021
     * Co-Chair: January 2021 - present
   * Institutional Access and Inclusivity Committee: January 2021 - present
-* **Dornsife Graduate Student Association (DGSA)**: January 2020 - present
+* **Dornsife Graduate Student Association (DGSA)**: 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
-* **Graduate Student Worker Organizing Committee (GSWOC)**: January 2019 - present
+* **Graduate Student Worker Organizing Committee (GSWOC)**: 2019 - present
   * Research Committee: January 2019 - present
-* **Population, Health, and Place Doctoral Student Association (PHPDSA)**: August 2018 - present
+* **Population, Health, and Place Doctoral Student Association (PHPDSA)**: 2018 - present
   * Co-Founder August 2018
   * Coordinator: August 2018 - present
   * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - present
