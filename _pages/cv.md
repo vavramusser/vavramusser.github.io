@@ -81,11 +81,11 @@ Other Ongoing Research
   
 Professional Organizations
 ======
-* University Consortium for Geographic Information Science (UCGIS): August 2017 - present
+* University Consortium for Geographic Information Science (UCGIS): 2017 - present
   * Communications Committee: December 2019 - present
-    * Communications Committee Co-Chair: February 2021 - present
+    * Co-Chair: February 2021 - present
   * AAG-UCGIS 2019 Summer Fellow
-* Women in Geospatial+ (WIG+): October 2020 - present
+* Women in Geospatial+ (WIG+): 2020 - present
   * Initiatives Team Lead: February 2021 - present
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
