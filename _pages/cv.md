@@ -81,18 +81,18 @@ Other Ongoing Research
   
 Professional Organizations
 ======
-* University Consortium for Geographic Information Science (UCGIS): 2017 - present
+* **University Consortium for Geographic Information Science (UCGIS)**: 2017 - present
   * Communications Committee: December 2019 - present
     * Co-Chair: February 2021 - present
   * AAG-UCGIS 2019 Summer Fellow
-* Women in Geospatial+ (WIG+): 2020 - present
+* **Women in Geospatial+ (WIG+)**: 2020 - present
   * Initiatives Team Lead: February 2021 - present
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
-* Urban and Regional Information Systems Association (URISA): 2017 - present
+* **Urban and Regional Information Systems Association (URISA)**: 2017 - present
   * Mentor: February 2021 - present 
-* Mechanism Design for Social Good (MDSG): November 2020 - present
+* **Mechanism Design for Social Good (MDSG)**: 2020 - present
   * Communication Team Content Editor: January 2021 - present
   * Environment and Climate Working Group: January 2021 - present
   
@@ -107,7 +107,7 @@ Professional Organizations
 
 Service and Leadership at the University of Southern California
 ======
-* Graduate Student Government (GSG): August 2020 - present
+* **Graduate Student Government (GSG)**: August 2020 - present
   * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
@@ -116,11 +116,11 @@ Service and Leadership at the University of Southern California
     * Co-Founder: January 2021
     * Co-Chair: January 2021 - present
   * Institutional Access and Inclusivity Committee: January 2021 - present
-* Dornsife Graduate Student Association (DGSA): January 2020 - present
+* **Dornsife Graduate Student Association (DGSA)**: January 2020 - present
   * Population, Health, and Place Program Representative: January 2020 - present
-* Graduate Student Worker Organizing Committee (GSWOC): January 2019 - present
+* **Graduate Student Worker Organizing Committee (GSWOC)**: January 2019 - present
   * Research Committee: January 2019 - present
-* Population, Health, and Place Doctoral Student Association (PHPDSA): August 2018 - present
+* **Population, Health, and Place Doctoral Student Association (PHPDSA)**: August 2018 - present
   * Co-Founder August 2018
   * Coordinator: August 2018 - present
   * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - present
