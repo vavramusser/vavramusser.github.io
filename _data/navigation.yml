@@ -23,3 +23,9 @@ main:
 
 #  - title: "Test Section"
 #     url: /test/
+
+  - title: "Intro2R"
+    url: /intro-to-r-spatial/    
+
+  - title: "Geo4R"
+    url: /geoprocessing-in-r/    
