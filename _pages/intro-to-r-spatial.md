@@ -1,10 +1,10 @@
 ---
-permalink: /introduction-to-r/
+permalink: /intro-to-r-spatial/
 title: "Introduction to R Programming for Spatial Data"
 excerpt: "Introduction to R for Spatial Data Workshop at the 2021 UCGIS Symposium"
 author_profile: true
 redirect_from: 
-  - "/introduction-to-r.html"
+  - "/intro-to-r-spatial.html"
 ---
 
 Welcome to Introduction to R for Spatial Data at the 2021 UCGIS Symposium!
