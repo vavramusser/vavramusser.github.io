@@ -76,17 +76,18 @@ Other Ongoing Research
 * Data Science for Social Good (DSSG)
   * AI for Good Simulator: December 2020 - present
     * Public Health and Epidemiology Academic Affiliate
-  * COVID Community Vulnerability Index: September 2020 - present
+  * COVID Community Vulnerability Index: September 2020 - March 2021
     * GIS and Dashboard Team
+    * Data Team
   
-Professional Organizations
+Involvement and Leadership with Professional Organizations
 ======
 * **University Consortium for Geographic Information Science (UCGIS)**: 2017 - present
+  * Chair of Communications: February 2021 - present
   * Communications Committee: December 2019 - present
-    * Co-Chair: February 2021 - present
   * AAG-UCGIS 2019 Summer Fellow
 * **Women in Geospatial+ (WIG+)**: 2020 - present
-  * Initiatives Team Lead: February 2021 - present
+  * Director of Initiatives: beginning April 2021
   * Steering Committee: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
@@ -108,6 +109,7 @@ Professional Organizations
 Service and Leadership at the University of Southern California
 ======
 * **Graduate Student Government (GSG)**: 2020 - present
+  * Director of Campus Affiars: beginning May 2021
   * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
