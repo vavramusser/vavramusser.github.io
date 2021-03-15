@@ -102,6 +102,7 @@ Involvement and Leadership with Professional Organizations
   * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
 * North American Cartographic Information Society (NAICS): 2020 - present
 * Society for Conservation Geographical Information Science (SCGIS): 2018 - present
+* Spatial Decision Support Consortium (SDS): March 2021 - present
 * Women in Analytics (WIA): 2020 - present
 * Women in Data (WID): 2020 - present
 * Women in Geographical Information Science (WIG): 2018 - present
