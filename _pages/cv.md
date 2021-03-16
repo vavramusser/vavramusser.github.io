@@ -96,8 +96,12 @@ Involvement and Leadership with Professional Organizations
 * **Mechanism Design for Social Good (MDSG)**: 2020 - present
   * Communication Team Content Editor: January 2021 - present
   * Environment and Climate Working Group: January 2021 - present
+* **AAG Rural Geography Speciality Group (RGSG)**: 2017 - present
+  * Secretary / Treasurer: 2020 - present
   
 * American Association of Geographers (AAG): 2017 - present
+  * Speciality Groups: Climate, Digital Geographies, Environmental Perception & Behavioral Geography, Geographic Information Science and Systems, Human Dimensions of Global Change, Remote Sensing, Rural Geography, Spatial Analysis & Modeling
+  * Affility Groups: Graduate Students, Mental Health in the Academy, Public/Private Sector
 * Association for Computing Machinery (ACM): 2019 - present
   * Special Interest Group on Spatial Information (ACM-SIGSPATIAL): 2019 - present
 * North American Cartographic Information Society (NAICS): 2020 - present
