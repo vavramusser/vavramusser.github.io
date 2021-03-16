@@ -83,12 +83,12 @@ Other Ongoing Research
 Involvement and Leadership with Professional Organizations
 ======
 * **University Consortium for Geographic Information Science (UCGIS)**: 2017 - present
-  * Chair of Communications: February 2021 - present
+  * **Chair of Communications**: February 2021 - present
   * Communications Committee: December 2019 - present
   * AAG-UCGIS 2019 Summer Fellow
 * **Women in Geospatial+ (WIG+)**: 2020 - present
-  * Director of Initiatives: beginning April 2021
-  * Steering Committee: January 2021 - present
+  * **Director of Initiatives**: beginning April 2021
+  * **Steering Committee**: January 2021 - present
   * Mentorship Program Team: October 2020 - present
   * Mentor: October 2020 - present
 * **Urban and Regional Information Systems Association (URISA)**: 2017 - present
@@ -114,8 +114,8 @@ Involvement and Leadership with Professional Organizations
 Service and Leadership at the University of Southern California
 ======
 * **Graduate Student Government (GSG)**: 2020 - present
-  * Director of Campus Affiars: beginning May 2021
-  * Senator for Dornsife College Social Sciences graudate programs: August 2020 - present
+  * **Director of Campus Affiars**: beginning May 2021
+  * **Senator for Dornsife College** Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
   * Teaching Assistant Payroll Working Group: December 2020 - present
