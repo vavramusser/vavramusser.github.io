@@ -99,6 +99,7 @@ Involvement and Leadership with Professional Organizations
   * Environment and Climate Working Group: January 2021 - present
 * **AAG Rural Geography Speciality Group (RGSG)**: 2017 - present
   * Secretary / Treasurer: 2020 - present
+  * Student Paper Award Review Committee 2021
   
 * American Association of Geographers (AAG): 2017 - present
   * Speciality Groups: Climate, Digital Geographies, Environmental Perception & Behavioral Geography, Geographic Information Science and Systems, Human Dimensions of Global Change, Remote Sensing, Rural Geography, Spatial Analysis & Modeling
