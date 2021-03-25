@@ -90,6 +90,7 @@ Involvement and Leadership with Professional Organizations
   * **Director of Initiatives**: beginning April 2021
   * **Steering Committee**: January 2021 - present
   * Mentorship Program Team: October 2020 - present
+  * FOSS4G 2021 Conference WIG+ Event Organizer
   * Mentor: October 2020 - present
 * **Urban and Regional Information Systems Association (URISA)**: 2017 - present
   * Mentor: February 2021 - present 
@@ -132,3 +133,9 @@ Service and Leadership at the University of Southern California
   * Coordinator: August 2018 - present
   * Spatial Sciences Institute Doctoral Student Liaison: August 2018 - present
   * DGSA Population, Health, and Place Program Representative: January 2020 - present
+
+Event Organization
+======
+* FOSS4G 2021 Conference
+  * Women in Geospatial (WIG+) Panel Discussion
+  * Women in Geospatial (WIG+) and GeoChicas Soical Event
