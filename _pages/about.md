@@ -22,7 +22,7 @@ You can find out more about my past research and background by taking a look at 
 If you would like to get in touch, I am available via [email](vavramusser@gmail.com) or for [remote meetings]( https://calbird.com/kate-vavramusser/remote).
 
 
-**United States Census Bureau Data Science Summer Fellow* - Coding it Forward Civic Digital Fellowship**
+***United States Census Bureau Data Science Summer Fellow* - Coding it Forward Civic Digital Fellowship**
 ------
 This summer I will be a member of the [Civic Digital Fellowship](https://www.codingitforward.com/civic-digital-fellowship) program with [Coding it Forward](https://www.codingitforward.com).  I am so excited to report that, through the Civic Digital Fellowship program, I have been paired with the United States Census Bureau to support a series of projects focused on survey redesign and rescoping using machine learning methods.  The fellowship is expected to run from June 7th until August 13, 2021.
 
