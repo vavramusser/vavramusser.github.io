@@ -17,7 +17,13 @@ Education
 
 Work and Research
 ======
-* May 2020 - present: **Research Assistant**
+* June 2021 - August 2021: **Data Science Fellow at the United States Census Bureau**
+  * [***Coding it Forward Civic Digital Fellowship** (Washington DC and remote)*](https://www.codingitforward.com/civic-digital-fellowship)
+
+* May 2021 - present: **Director of Campus Affairs**
+  * ***University of Southern Graduate Student Government** (Los Angeles, CA)*
+
+* May 2020 - May 2021: **Research Assistant**
   * ***University of Southern California School of Gerontology** (Los Angeles, CA)*
   * Primary Investigator: [Dr. Jennifer Ailshire](https://gero.usc.edu/faculty/ailshire)
   * Colleagues: Sarah Mawhorter, Emily Serman, [Amisha Singh](https://www.linkedin.com/in/amishasingh13102), Rachel Wilkie
@@ -47,7 +53,7 @@ Teaching (University Level)
   
 Fellowships
 ======
-* 2021 Summer **Data Science Fellow** with the **United States Census Bureau**
+* 2021 Summer **Data Science Fellow** at the **United States Census Bureau**
   * [Coding it Forward Civic Digital Summer Fellow](https://www.codingitforward.com/civic-digital-fellowship)
 * [Equity + Ethics in Data Workshop](https://www.latech4good.org/dataworkshop), February 2021 Cohort
   * [Los Angeles Tech4Good](https://www.latech4good.org)
@@ -116,7 +122,7 @@ Involvement and Leadership with Professional Organizations
 Service and Leadership at the University of Southern California
 ======
 * **Graduate Student Government (GSG)**: 2020 - present
-  * **Director of Campus Affiars**: beginning May 2021
+  * **Director of Campus Affiars**: May 2021 - present
   * **Senator for Dornsife College** Social Sciences graudate programs: August 2020 - present
   * Sustainability Committee: August 2020 - present
   * Childcare and Emergency Funding Review Committee: August 2020 - present
