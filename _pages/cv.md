@@ -17,8 +17,8 @@ Education
 
 Work and Research
 ======
-* June 2021 - August 2021: **Data Science Fellow at the United States Census Bureau**
-  * [***Coding it Forward Civic Digital Fellowship** (Washington DC and remote)*](https://www.codingitforward.com/civic-digital-fellowship)
+* June 2021 - present: **Data Science Fellow at the United States Census Bureau**
+  * *[**Coding it Forward Civic Digital Fellowship**](https://www.codingitforward.com/civic-digital-fellowship) (Washington DC and remote)*
 
 * May 2021 - present: **Director of Campus Affairs**
   * ***University of Southern Graduate Student Government** (Los Angeles, CA)*
