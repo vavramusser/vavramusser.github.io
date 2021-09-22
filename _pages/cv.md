@@ -21,7 +21,10 @@ Work and Research
   * *[**Coding it Forward Civic Digital Fellowship**](https://www.codingitforward.com/civic-digital-fellowship) (Washington DC and remote)*
 
 * May 2021 - present: **Director of Campus Affairs**
-  * ***University of Southern Graduate Student Government** (Los Angeles, CA)*
+  * ***University of Southern California Graduate Student Government** (Los Angeles, CA)*
+
+* August 2017 - present: **Graduate Student**
+  * ***University of Southern California** (Los Angeles, CA)*
 
 * May 2020 - May 2021: **Research Assistant**
   * ***University of Southern California School of Gerontology** (Los Angeles, CA)*
