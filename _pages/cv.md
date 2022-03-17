@@ -19,12 +19,17 @@ Work and Research
 ======
 * August 2017 - present: **Graduate Student**
   * ***University of Southern California** (Los Angeles, CA)*
+  * Advisors: [Jennifer Ailshire](https://www.linkedin.com/in/jennifer-ailshire-85143920b), [Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [An-Min Wu](https://www.linkedin.com/in/anminwu)
+  * Collegues: [Avery Everhart](https://www.linkedin.com/in/avery-everhart-028427203), [Lois Park](https://www.linkedin.com/in/lois-park), Emily Serman, [Li Yi](https://www.linkedin.com/in/liyispatial), [Xiaozhe Yin](https://www.linkedin.com/in/xiaozhe-yin-18923a179)
 
 * May 2021 - present: **Director of Campus Affairs**
   * ***University of Southern California Graduate Student Government** (Los Angeles, CA)*
+  * Collegues: [KJ Queen](https://www.linkedin.com/in/katelyn-kj-queen-86128021b), [Esthelle Ewusi Boisvert](https://www.linkedin.com/in/esthelle-ewusi-boisvert), [Quinn Anex-Ries](https://www.linkedin.com/in/quinn-anex-ries), [Naomi Joyce Rodgers](https://www.linkedin.com/in/naomi-joyce-rodgers-ba4290bb), [Melisa Osborne](https://www.linkedin.com/in/melisa-osborne-biomed)
 
 * June - November 2021: **Data Science Fellow at the United States Census Bureau**
   * *[**Coding it Forward Civic Digital Fellowship**](https://www.codingitforward.com/civic-digital-fellowship) (Washington DC and remote)*
+  * Supervisors: Dr. Victoria Uldova
+  * Collegues: [Dennis Linders](https://www.linkedin.com/in/dennislinders)
 
 * May 2020 - May 2021: **Research Assistant**
   * ***University of Southern California School of Gerontology** (Los Angeles, CA)*
