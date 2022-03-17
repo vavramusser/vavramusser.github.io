@@ -24,7 +24,7 @@ Work and Research
 
 * May 2021 - present: **Director of Campus Affairs**
   * ***University of Southern California Graduate Student Government** (Los Angeles, CA)*
-  * Collegues: [KJ Queen](https://www.linkedin.com/in/katelyn-kj-queen-86128021b), [Esthelle Ewusi Boisvert](https://www.linkedin.com/in/esthelle-ewusi-boisvert), [Quinn Anex-Ries](https://www.linkedin.com/in/quinn-anex-ries), [Naomi Joyce Rodgers](https://www.linkedin.com/in/naomi-joyce-rodgers-ba4290bb), [Melisa Osborne](https://www.linkedin.com/in/melisa-osborne-biomed)
+  * Collegues: [Quinn Anex-Ries](https://www.linkedin.com/in/quinn-anex-ries), [Esthelle Ewusi Boisvert](https://www.linkedin.com/in/esthelle-ewusi-boisvert), [Melisa Osborne](https://www.linkedin.com/in/melisa-osborne-biomed), [KJ Queen](https://www.linkedin.com/in/katelyn-kj-queen-86128021b), [Naomi Joyce Rodgers](https://www.linkedin.com/in/naomi-joyce-rodgers-ba4290bb)
 
 * June - November 2021: **Data Science Fellow at the United States Census Bureau**
   * *[**Coding it Forward Civic Digital Fellowship**](https://www.codingitforward.com/civic-digital-fellowship) (Washington DC and remote)*
