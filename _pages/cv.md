@@ -19,8 +19,8 @@ Work and Research
 ======
 * August 2017 - present: **Graduate Student**
   * ***University of Southern California** (Los Angeles, CA)*
-  * Advisors: [Jennifer Ailshire](https://www.linkedin.com/in/jennifer-ailshire-85143920b), [Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [An-Min Wu](https://www.linkedin.com/in/anminwu)
-  * Collegues: [Avery Everhart](https://www.linkedin.com/in/avery-everhart-028427203), [Lois Park](https://www.linkedin.com/in/lois-park), Emily Serman, [Li Yi](https://www.linkedin.com/in/liyispatial), [Xiaozhe Yin](https://www.linkedin.com/in/xiaozhe-yin-18923a179)
+  * Advisors: [Dr. Jennifer Ailshire](https://www.linkedin.com/in/jennifer-ailshire-85143920b), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. An-Min Wu](https://www.linkedin.com/in/anminwu)
+  * Collegues: [Avery Everhart](https://www.linkedin.com/in/avery-everhart-028427203), [Lois Park](https://www.linkedin.com/in/lois-park), Emily Serman, [Dr. Li Yi](https://www.linkedin.com/in/liyispatial), [Xiaozhe Yin](https://www.linkedin.com/in/xiaozhe-yin-18923a179)
 
 * May 2021 - present: **Director of Campus Affairs**
   * ***University of Southern California Graduate Student Government** (Los Angeles, CA)*
