@@ -1,7 +1,7 @@
 ---
 permalink: /intro-to-r-spatial/
-title: "Introduction to R Programming for Spatial Data"
-excerpt: "Introduction to R for Spatial Data Workshop at the 2021 UCGIS Symposium"
+title: "Installing R and R Studio"
+excerpt: "Installing R and R Studio"
 author_profile: true
 redirect_from: 
   - "/intro-to-r-spatial.html"
