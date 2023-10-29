@@ -28,8 +28,8 @@ redirect_from:
 ------
 * Navigate to [rstudio.com/products/rstudio/download/#download](https://rstudio.com/products/rstudio/download/#download).
 * In the list of installers under the **All Installers** section, click on the RStudio version recommended for your system and save the file on your computer.
-	* **Windows Users**: use RStudio-1.4.1106.exe
-	* **MacOS users**: use RStudio-1.4.1106.dmg
+	* **Windows Users**: use RStudio-2023.09.1-494.exe
+	* **MacOS users**: use RStudio-2023.09.1-494.dmg
 * Once the download has completed:
 	* **Windows users**: Double click on the downloaded executable (.exe) file and follow the installation instructions.
 	* **MacOS users**: Double click on the downloaded disk image (.dmg) file to open it and then drag and drop the .dmg file to your applications folder.
