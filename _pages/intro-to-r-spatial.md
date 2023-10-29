@@ -5,9 +5,10 @@ excerpt: "Introduction to R for Spatial Data Workshop at the 2021 UCGIS Symposiu
 author_profile: true
 redirect_from: 
   - "/intro-to-r-spatial.html"
----
 
-<Welcome to Introduction to R for Spatial Data at the 2021 UCGIS Symposium!
+Welcome to Introduction to R for Spatial Data at the 2021 UCGIS Symposium!
+
+---
 
 This workshop will be held virtually on June 11 from 6:00 to 8:00 EST as part of the [2021 UCGIS Symposium](https://www.ucgis.org/symposium-2021).  Registration for the 2021 UCGIS Symposium is not yet live.
 
