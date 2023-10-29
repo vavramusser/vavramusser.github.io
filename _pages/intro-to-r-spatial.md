@@ -5,24 +5,7 @@ excerpt: "Introduction to R for Spatial Data Workshop at the 2021 UCGIS Symposiu
 author_profile: true
 redirect_from: 
   - "/intro-to-r-spatial.html"
-
-Welcome to Introduction to R for Spatial Data at the 2021 UCGIS Symposium!
-
 ---
-
-This workshop will be held virtually on June 11 from 6:00 to 8:00 EST as part of the [2021 UCGIS Symposium](https://www.ucgis.org/symposium-2021).  Registration for the 2021 UCGIS Symposium is not yet live.
-
-Course Description
-======
-This 2-hour course will introduce participants with limited or no prior experience with the R programming language to the basics of R and RStudio for both general applications and applications using spatial data.  The course will start with an introduction to the RStudio interface and how to implement basic programming commands and methods.  We will then explore importing external data into R and using R for data cleaning and manipulation.  Finally, will explore using spatial data in R including an introduction to key packages for spatial data management, how to correctly use CRS and projections with spatial data, and basic data management for spatial data.
-
-Prerequisite Knowledge
-======
-No prerequisite knowledge is required for this course.  This course is intended for participants with limited or no prior experience with R.  Prior experience with other programming languages may be helpful but is also not required.
-
-Workshop Requirements
-======
-Prior to attending the workshop, please download and install R and RStudio if you do not already have both on your machine.  I will begin the workshop under the assumption that everyone has R and RStudio already installed.  Instructions for installing R and RStudio are given below.  If you have any trouble following these instructions or completing the installation, please [reach out to Kate](mailto:vavramusser@gmail.com).>
 
 *To Install R*
 ------
