@@ -27,8 +27,5 @@ main:
   - title: "Intro2R"
     url: /intro-to-r-spatial/    
 
-  - title: "Geo4R"
-    url: /geoprocessing-in-r/    
-
   - title: "Buy me a Coffee"
     url: https://www.buymeacoffee.com/vavramusser
