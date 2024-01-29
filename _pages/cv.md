@@ -13,16 +13,26 @@ Education
 ======
 * B.S. in Biology from the ***University of Chicago***, 2009
 * M.S. in Global Health and Environment from the ***University of California, Berkeley***, 2015
-* Ph.D in Population, Health, and Place from the ***University of Southern California***, May 2022 (expected)
+* Ph.D in Population, Health, and Place from the ***University of Southern California***, 2023
 
 Work and Research
 ======
-* August 2017 - present: **Graduate Student**
-  * ***University of Southern California** (Los Angeles, CA)*
-  * Advisors: [Dr. Jennifer Ailshire](https://www.linkedin.com/in/jennifer-ailshire-85143920b), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Jill Johnston](https://www.linkedin.com/in/jill-johnston-9b32a354), [Dr. An-Min Wu](https://www.linkedin.com/in/anminwu)
-  * Collegues: [Avery Everhart](https://www.linkedin.com/in/avery-everhart-028427203), [Lois Park](https://www.linkedin.com/in/lois-park), Emily Serman, [Dr. Li Yi](https://www.linkedin.com/in/liyispatial), [Xiaozhe Yin](https://www.linkedin.com/in/xiaozhe-yin-18923a179)
+* January 2023 - present **Postdoctoral Researcher**
+  * ***University of Minnesota** (Minneapolis, MN)*
+  * Advisor: [Dr. Eric Shook](https://www.linkedin.com/in/eshook/)
+ 
+* April 2023 - present **Research Fellow and Assistant Project Manager**
+  * ***[NSF I-GUIDE](https://iguide.illinois.edu/)***
+  * Supervisor: [Dr. Shaowen Wang](https://www.linkedin.com/in/shaowen-wang-3b556822/)
+  * Collegues: [Dr. Iman Haqiqi](https://www.linkedin.com/in/iman-haqiqi/), [Dr. Deanna Hence](https://www.linkedin.com/in/dhence/), [Hodo Orok](https://www.linkedin.com/in/hodo-orok-67765425/), [Dr. Anand Padmanabhan](https://www.linkedin.com/in/apadmana/), [Dr. Jinwoo Park](https://www.linkedin.com/in/jparkgeo/), [Dr. Diana Sinton](https://www.linkedin.com/in/diana-sinton/)
 
-* May 2021 - present: **Director of Campus Affairs**
+
+* August 2017 - August 2023: **Graduate Student**
+  * ***University of Southern California** (Los Angeles, CA)*
+  * Advisors: [Dr. Jennifer Ailshire](https://www.linkedin.com/in/jennifer-ailshire-85143920b), [Dr. Meredith Franklin](https://www.linkedin.com/in/meredithfranklin), [Dr. Eileen Crimmins](https://gero.usc.edu/faculty/crimmins/), [Dr. An-Min Wu](https://www.linkedin.com/in/anminwu)
+  * Collegues: [Dr. Lourdes Johanna Avelar-Portillo](https://www.linkedin.com/in/lourdes-johanna-avelar-portillo-phd-3b9b3b88), [Dr. Avery Everhart](https://www.linkedin.com/in/avery-everhart-028427203), [Dr. Calley Fisk](https://www.linkedin.com/in/calleyfisk/), [Dr. Lois Park](https://www.linkedin.com/in/lois-park), Dr. Emily Serman, [Rachel Wilkie](https://www.linkedin.com/in/rachel-wilkie-493607190/), [Dr. Li Yi](https://www.linkedin.com/in/liyispatial), [Dr. Xiaozhe Yin](https://www.linkedin.com/in/xiaozhe-yin-18923a179)
+
+* May 2021 - May 2023: **Director of Campus Affairs**
   * ***University of Southern California Graduate Student Government** (Los Angeles, CA)*
   * Collegues: [Quinn Anex-Ries](https://www.linkedin.com/in/quinn-anex-ries), [Esthelle Ewusi Boisvert](https://www.linkedin.com/in/esthelle-ewusi-boisvert), [Melisa Osborne](https://www.linkedin.com/in/melisa-osborne-biomed), [KJ Queen](https://www.linkedin.com/in/katelyn-kj-queen-86128021b), [Naomi Joyce Rodgers](https://www.linkedin.com/in/naomi-joyce-rodgers-ba4290bb)
 
@@ -56,6 +66,7 @@ Teaching (University Level)
 ======
 * California State University, Long Beach
   * Fall 2022: Geographic Information Science for Health
+  * Spring 2023: Geographic Information Science for Health
 * University of Southern California
   * Spring 2020 and Fall 2018: The Water Planet (teaching assistant and laboratory instructor)
   * Fall 2019: Sustinability Science in the City (teaching assistant and laboratory instructor)
