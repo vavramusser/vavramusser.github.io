@@ -1,3 +1,12 @@
+---
+permalink: /intro-to-ipums/
+title: "Introduction to IPUMS and the IPUMS API"
+excerpt: "Introduction to IPUMS and the IPUMS API"
+author_profile: true
+redirect_from: 
+  - "/intro-to-r-spatial.html"
+---
+
 # Introduction to IPUMS and the IPUMS API
 
 The [**IPUMS (Integrated Public Use Microdata Series)**](https://www.ipums.org) provides access to high-quality, harmonized data on population and health from around the world. Developed and maintained by the [Institute for Social Research and Data Innovation (ISRDI)](https://isrdi.umn.edu) at the [University of Minnesota's Minnesota Population Center (MPC)](https://pop.umn.edu), IPUMS datasets cover a range of demographic, health, and geographic topics that support research in fields like public health, economics, geography, and social sciences. IPUMS data offerings include U.S. Census data, global demographic surveys, and health datasets, all standardized across time and location to allow for easy cross-temporal and cross-national comparisons.
