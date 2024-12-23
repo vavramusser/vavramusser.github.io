@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kate Vavra-Musser"
 title_separator          : "-"
 name                     : &name "Kate Vavra-Musser"
-description              : &description "PhD Candidate at the University of Southern California"
+description              : &description "Postdoc with the University of Minnesota and the Institute for Spatial Research and Data Innovation(ISRDI)"
 url                      : https://vavramusser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vavramusser.github.io"
@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Kate Vavra-Musser"
   avatar           : "profilepic.jpg"
-  bio              : "PhD Candidate in Population, Health, and Place at the University of Southern California Spatial Sciences Institute"
-  location         : "Los Angeles, CA"
+  bio              : "Postdoc with the University of Minnesota and the Institute for Spatial Research and Data Innovation(ISRDI)"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=kate+vavra-musser"
   googlescholar    : "https://scholar.google.com/citations?user=7Y98C_AAAAAJ&hl=en"
   email            : "vavramusser@gmail.com"
-  email            : "vavramus@usc.edu"
   researchgate     : "https://www.researchgate.net/profile/Kate_Vavra-Musser2"
   uri              :
   bitbucket        :
@@ -110,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "vavramusser"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
