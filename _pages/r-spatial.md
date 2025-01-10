@@ -1,13 +1,13 @@
 ---
 permalink: /r-spatial/
-title: "R Spatial Notebook Series"
+title: "The R Spatial Notebook Series"
 excerpt: "Introduction and Chapter Outline for the R Spatial Notebook Series"
 author_profile: true
 redirect_from: 
   - "/r-spatial.html"
 ---
 
-# R Spatial Notebooks: A Comprehensive Guide to Spatial Data Science with R
+## A Comprehensive Guide to Spatial Data Science with R
 
 Welcome to the R Spatial Notebooks, a curated collection of interactive tutorials and resources designed to empower researchers, analysts, and enthusiasts in the field of spatial data science. These notebooks explore the rich ecosystem of R libraries and tools for spatial analysis, offering hands-on, reproducible examples to help you unlock the potential of spatial data.
 
