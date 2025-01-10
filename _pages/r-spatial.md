@@ -15,6 +15,7 @@ From foundational concepts to advanced techniques, the R Spatial Notebooks provi
 
 Whether you're new to spatial data science or an experienced practitioner looking for specific insights, these notebooks are designed to support your journey in understanding and applying spatial methodologies with R. Explore, learn, and transform your spatial analysis workflow today.
 
+### Receive Project Updates
 The R Spatial Notebooks Series is an ongoing project with new notebooks currently in development.  Sign up for the [R Spatial Mailing List](https://mailchi.mp/ab01e8fc8397/r-spatial-email-signup) to receive project updates, new notebook announcements, and opportunities to connect.
 
 *Chapter 1: Data Sources and APIs*
