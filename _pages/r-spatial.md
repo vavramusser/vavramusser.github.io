@@ -34,32 +34,32 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 * [IPUMS USA Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/ab5cad39-6d00-43d2-bc51-17fd4e6b98f2)
 * [IPUMS CPS Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/286321c5-6cc6-43df-a3e5-f3d72192e00c)
 * [IPUMS International Microdata Extraction Using ipumsr](https://platform.i-guide.io/notebooks/71bcc1a6-8d43-405d-a8c3-adceaf5b785d)
-* [IPUMS NHGIS Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/be08e56e-1c08-458e-a230-263c64d386bc)
-* [IPUMS Time Use Data Extraction Using ipumsr](https://platform.i-guide.io/datasets/db169417-ceb7-4a98-965c-096873edbf6a)
-* [IPUMS Health Surveys Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/4b366bd1-b23f-4f47-9c7f-2a060a9135a5)
+* IPUMS NHGIS Data Extraction Using ipumsr
+* IPUMS Time Use Data Extraction Using ipumsr
+* IPUMS Health Surveys Data Extraction Using ipumsr
 
 *Chapter 3: Data Cleaning and Preparation*
 ------
-* [Data Preparation and Transformation with IPUMS USA](https://platform.i-guide.io/notebooks/b4b29b13-d832-495d-8db7-1545a30549f1)
+* Data Preparation and Transformation with IPUMS USA
 * Spatial Data Management with IPUMS NHGIS
 
 *Chapter 4: Exploratory Data Analysis (EDA)*
 ------
-* [Exploratory Data Analysis (EDA) with IPUMS USA](https://platform.i-guide.io/notebooks/29c5c2da-4bfe-4150-9c05-b65956c997b4)
+* Exploratory Data Analysis (EDA) with IPUMS USA
 
 *Chapter 5: Mapping*
 ------
-* [Mapping Point and Polygon Data](https://platform.i-guide.io/notebooks/2b9f579c-32b0-4078-af39-994bb31d50ec)
-* [Choropleth Mapping](https://platform.i-guide.io/notebooks/f2f973df-2412-49f0-ad39-d80051f20d4d)
-* [Introduction to Basemaps with ggmap and tmap](https://platform.i-guide.io/notebooks/d4840038-0957-4beb-9449-bfe9ad86e5e8)
-* [Adding Basemaps with ggmap and tmap](https://platform.i-guide.io/notebooks/7c5fe9e5-f6ff-4b5f-a852-94cded587b5f)
-* [Interactive Mapping with leaflet](https://platform.i-guide.io/notebooks/15d57a24-0d54-4cd3-a083-6bc4102c308c)
+* Mapping Point and Polygon Data
+* Choropleth Mapping
+* Introduction to Basemaps with ggmap and tmap
+* Adding Basemaps with ggmap and tmap
+* Interactive Mapping with leaflet
 
 *Chapter 6: Foundational Spatial Analyses*
 ------
-* [Distance Calculations](https://platform.i-guide.io/notebooks/02f7f46b-c45f-4a06-81e0-d7df3f81ca23)
-* [Buffer Analysis](https://platform.i-guide.io/notebooks/8a71b801-a336-4614-92b9-b09130cb0075)
-* [Point-in-Polygon Analysis](https://platform.i-guide.io/notebooks/20014de4-b5e2-4c41-a4c1-ff8831f84f11)
+* Distance Calculations
+* Buffer Analysis
+* Point-in-Polygon Analysis
 * Overlay Analysis
 
 *Chapter 7: Advanced Spatial Analyses*
@@ -68,4 +68,4 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 
 *Chapter 8: Raster Analysis*
 ------
-* [Raster Aggregation](https://platform.i-guide.io/notebooks/b4adbbf7-71e2-4e24-8724-151c6464f75c)
+* Raster Aggregation
