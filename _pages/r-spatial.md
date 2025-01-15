@@ -46,6 +46,7 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 *Chapter 4: Exploratory Data Analysis (EDA)*
 ------
 * **4.1** Exploratory Data Analysis (EDA) with IPUMS USA
+* **4.2** Exploratory Spatial Data Analysis (ESDA) with IPUMS NHGIS
 
 *Chapter 5: Mapping*
 ------
