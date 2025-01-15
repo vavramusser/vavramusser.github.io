@@ -40,8 +40,8 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 
 *Chapter 3: Data Cleaning and Preparation*
 ------
-* **3.1** Data Preparation and Transformation with IPUMS USA
-* **3.2** Spatial Data Management with IPUMS NHGIS
+* **3.1** [Data Preparation and Transformation with IPUMS USA](https://platform.i-guide.io/notebooks/b4b29b13-d832-495d-8db7-1545a30549f1)
+* **3.2** [Spatial Data Exploration and Preprocessing with IPUMS NHGIS](https://platform.i-guide.io/notebooks/2927de7d-45a4-46d7-8f76-a569af637d82)
 
 *Chapter 4: Exploratory Data Analysis (EDA)*
 ------
