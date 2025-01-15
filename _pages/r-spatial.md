@@ -34,7 +34,7 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 * [IPUMS USA Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/ab5cad39-6d00-43d2-bc51-17fd4e6b98f2)
 * [IPUMS CPS Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/286321c5-6cc6-43df-a3e5-f3d72192e00c)
 * [IPUMS International Microdata Extraction Using ipumsr](https://platform.i-guide.io/notebooks/71bcc1a6-8d43-405d-a8c3-adceaf5b785d)
-* IPUMS NHGIS Data Extraction Using ipumsr
+* [IPUMS NHGIS Data Extraction Using ipumsr](https://platform.i-guide.io/notebooks/be08e56e-1c08-458e-a230-263c64d386bc)
 * IPUMS Time Use Data Extraction Using ipumsr
 * IPUMS Health Surveys Data Extraction Using ipumsr
 
