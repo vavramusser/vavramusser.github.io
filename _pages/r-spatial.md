@@ -18,7 +18,7 @@ Whether you're new to spatial data science looking for a place to get started or
 ### Receive Project Updates
 The R Spatial Notebooks Series is an ongoing project with new notebooks currently in development.  Sign up for the [R Spatial Mailing List](https://mailchi.mp/ab01e8fc8397/r-spatial-email-signup) to receive project updates, new notebook announcements, and opportunities to connect.
 
-### Send me 
+### Make a Suggestion
 Do you have a specific topic or notebook idea you would like to see included in the R Spatial Notebooks?  Drop me a message in the [suggestion box!](https://us19.list-manage.com/survey?u=746bf8d366d6fbc99c699e714&id=54590a28ea&attribution=false).
 
 *Chapter 1: Data Sources and APIs*
