@@ -58,9 +58,9 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 *Chapter 6: Foundational Spatial Analyses*
 ------
 * **6.1** Distance Calculations
-* **6.2**Buffer Analysis
-* **6.3**Point-in-Polygon Analysis
-* **6.4**Overlay Analysis
+* **6.2** Buffer Analysis
+* **6.3** Point-in-Polygon Analysis
+* **6.4** Overlay Analysis
 
 *Chapter 7: Advanced Spatial Analyses*
 ------
@@ -68,4 +68,4 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 
 *Chapter 8: Raster Analysis*
 ------
-* **8.1**Raster Aggregation
+* **8.1** Raster Aggregation
