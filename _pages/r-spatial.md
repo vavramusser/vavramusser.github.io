@@ -21,6 +21,8 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 ### Make a Suggestion
 Do you have a specific topic or notebook idea you would like to see included in the R Spatial Notebooks?  Drop a message in the [suggestion box!](https://us19.list-manage.com/survey?u=746bf8d366d6fbc99c699e714&id=54590a28ea&attribution=false).
 
+---
+
 *Chapter 1: Data Sources and APIs*
 ------
 * **1.1** [Introduction to IPUMS and the IPUMS API](https://platform.i-guide.io/notebooks/82d3b176-e4e6-4307-8186-318a3fe6c81a)
@@ -73,3 +75,12 @@ Do you have a specific topic or notebook idea you would like to see included in 
 *Chapter 8: Raster Analysis*
 ------
 * **8.1** Raster Aggregation
+
+---
+### Project FAQs
+
+**Why are these notebooks written in Jupyter Notebooks rather than R Markdown?**
+This project was started while I was a postdoctoral scholar with the University of Minnesota and the NSF I-GUIDE project and the notebooks were specifically developed to be used and shared witin the I-GUDE platform.  The I-GUIDE platform supports the Jupyter Notebook framework which is why I wrote the notebooks in Jupyter rather than R Markdown.  I may write and make available R Markdown versions in the future if there is interest for it.
+
+**Will you take a look at my code / suggest a workflow for my project / brainstorm my project with me?**
+Sure!  Send me an email.  [vavramusser@gmail.com](vavramusser@gmail.com)
