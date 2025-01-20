@@ -79,7 +79,7 @@ Do you have a specific topic or notebook idea you would like to see included in 
 ---
 ### Project FAQs
 
-**Why are these notebooks written in Jupyter Notebooks rather than R Markdown?**
+**Why is everything written in Jupyter Notebooks rather than R Markdown?**
 This project was started while I was a postdoctoral scholar with the University of Minnesota and the NSF I-GUIDE project and the notebooks were specifically developed to be used and shared witin the I-GUDE platform.  The I-GUIDE platform supports the Jupyter Notebook framework which is why I wrote the notebooks in Jupyter rather than R Markdown.  I may write and make available R Markdown versions in the future if there is interest for it.
 
 **Will you take a look at my code / suggest a workflow for my project / brainstorm my project with me?**
