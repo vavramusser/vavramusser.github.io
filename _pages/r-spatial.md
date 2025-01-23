@@ -25,28 +25,28 @@ Do you have a specific topic or notebook idea you would like to see included in 
 
 *Chapter 1: Data Sources and APIs*
 ------
-* **1.1** [Introduction to IPUMS and the IPUMS API](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.01+Introduction+to+IPUMS+and+the+IPUMS+API.ipynb)
-* **1.2** [Introduciton to Natural Earth](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.02+Introduction+to+Natural+Earth.ipynb)
-* **1.3** [Introduction to OpenStreetMap (OSM)](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.03+Introduction+to+OpenStreetMap+%28OSM%29.ipynb)
-* **1.4** [Introduction to Stadia Maps and Stamen Maps](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.04+Introduction+to+Stadia+Maps+and+Stamen+Maps.ipynb)
-* **1.5** [Introduction to Google Maps](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.05+Introduction+to+Google+Maps.ipynb)
-* **1.6** [Introduction to Google Earth Engine (GEE)](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.06+Introduction+to+Google+Earth+Engine+%28GEE%29.ipynb)
-* **1.7** [Introduction to the National Land Cover Database (NLCD)](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.07+Introduction+to+the+USGS+National+Land+Cover+Database+%28NLCD%29.ipynb)
-* **1.8** [Introduction to the EPA Air Quality System (AQS) Data Repository](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=1.08+Introduction+to+the+EPA+Air+Quality+System+%28AQS%29+Data+Repository+and+the+AQS+API.ipynb)
+* **1.1** [Introduction to IPUMS and the IPUMS API]()
+* **1.2** [Introduciton to Natural Earth]()
+* **1.3** [Introduction to OpenStreetMap (OSM)]()
+* **1.4** [Introduction to Stadia Maps and Stamen Maps]()
+* **1.5** [Introduction to Google Maps]()
+* **1.6** [Introduction to Google Earth Engine (GEE)]()
+* **1.7** [Introduction to the National Land Cover Database (NLCD)]()
+* **1.8** [Introduction to the EPA Air Quality System (AQS) Data Repository]()
 
 *Chapter 2: IPUMS Data Acquisition and Extraction*
 ------
-* **2.1** [IPUMS USA Data Extraction Using ipumsr](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=2.01+IPUMS+USA+Data+Extraction+Using+ipumsr.ipynb)
-* **2.2** [IPUMS CPS Data Extraction Using ipumsr](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=2.02+IPUMS+CPS+Data+Extraction+Using+ipumsr.ipynb)
-* **2.3** [IPUMS International Microdata Extraction Using ipumsr](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=2.03+IPUMS+International+Data+Extraction+Using+ipumsr.ipynb)
-* **2.4** [IPUMS NHGIS Data Extraction Using ipumsr](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=2.04+IPUMS+NHGIS+Data+Extraction+Using+ipumsr.ipynb)
+* **2.1** [IPUMS USA Data Extraction Using ipumsr]()
+* **2.2** [IPUMS CPS Data Extraction Using ipumsr]()
+* **2.3** [IPUMS International Microdata Extraction Using ipumsr]()
+* **2.4** [IPUMS NHGIS Data Extraction Using ipumsr](ht()
 * **2.5** IPUMS Time Use Data Extraction Using ipumsr
 * **2.6** IPUMS Health Surveys Data Extraction Using ipumsr
 
 *Chapter 3: Data Cleaning and Preparation*
 ------
-* **3.1** [Data Preparation and Transformation with IPUMS USA](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=3.01+Data+Cleaning+and+Preparation+with+IPUMS+USA.ipynb)
-* **3.2** [Spatial Data Exploration and Preprocessing with IPUMS NHGIS](https://mybinder.org/v2/gh/vavramusser/r-spatial/HEAD?labpath=3.02+Spatial+Exploration+and+Preprocessing+with+IPUMS+NHGIS.ipynb)
+* **3.1** [Data Preparation and Transformation with IPUMS USA]()
+* **3.2** [Spatial Data Exploration and Preprocessing with IPUMS NHGIS]()
 
 *Chapter 4: Exploratory Data Analysis (EDA)*
 ------
