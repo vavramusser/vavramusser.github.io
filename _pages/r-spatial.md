@@ -21,6 +21,8 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 ### Make a Suggestion
 Do you have a specific topic or notebook idea you would like to see included in the R Spatial Notebooks?  Drop a message in the [suggestion box!](https://us19.list-manage.com/survey?u=746bf8d366d6fbc99c699e714&id=54590a28ea&attribution=false).
 
+# The R Spatial Notebooks are currently undergoing revision.  Notebook links will be live again within in a few days.
+
 ---
 
 *Chapter 1: Data Sources and APIs*
