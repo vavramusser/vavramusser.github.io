@@ -50,7 +50,7 @@ Do you have a specific topic or notebook idea you would like to see included in 
   * **3.2.3** [IPUMS NHGIS Data Extraction Using ipumsr: Supplemental Exercise 3](https://platform.i-guide.io/notebooks/55dd96e5-fdf6-408f-a050-7fcd006d0575)
 * **3.3** IPUMS CPS Data Extraction Using ipumsr - *coming soon*
 
-*Chapter 4: Open-Source GIS Data Acquisition and Ectraction*
+*Chapter 4: Open-Source GIS Data Acquisition and Extraction*
 ------
 * **4.1** [Importing Data from Natural Earth with rnaturalearth and rnaturalearthdata](https://platform.i-guide.io/notebooks/934e764c-d727-4bab-bc1c-198233484adc)
 * **4.2** Importing Data from OpenStreetMap (OSM) with osmdata - *coming soon: release 2*
