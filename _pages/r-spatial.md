@@ -58,8 +58,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 *Chapter 5: Data Cleaning, Preparation, and Exploratory Data Analysis (EDA)*
 ------
 * **5.1** [Data Cleaning and Preparation with IPUMS USA](https://platform.i-guide.io/notebooks/b4b29b13-d832-495d-8db7-1545a30549f1)
-* **5.2** [Spatial Data Exploration and Preprocessing with IPUMS NHGIS](https://platform.i-guide.io/notebooks/2927de7d-45a4-46d7-8f76-a569af637d82)
-* **5.3** [Exploratory Data Analysis (EDA) with IPUMS USA](https://platform.i-guide.io/notebooks/29c5c2da-4bfe-4150-9c05-b65956c997b4)
+* **5.2** [Exploratory Data Analysis (EDA) with IPUMS USA](https://platform.i-guide.io/notebooks/29c5c2da-4bfe-4150-9c05-b65956c997b4)
+* **5.3** [Spatial Data Exploration and Preprocessing with IPUMS NHGIS](https://platform.i-guide.io/notebooks/2927de7d-45a4-46d7-8f76-a569af637d82)
 
 *Chapter 6: Mapping and Visualization*
 ------
