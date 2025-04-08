@@ -13,8 +13,6 @@ Welcome to the R Spatial Notebook, a collection of interactive code notebooks de
 
 The notebook series is designed to be used like a book with earlier chapters providing foundational concepts and workflows necessary to complete later chapters.  However, each notebook is also a standalone resource and designed to be downloaded and modified to support the user's specific research and education needs.
 
-[Read My Article **Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series** published on the IPUMS Blog.](https://blog.popdata.org/introducing-the-r-spatial-notebook-series)
-
 Whether you're new to spatial data science looking for a place to get started or an experience R coder looking to expand your existing workflows, these notebooks are designed to support your journey in understanding and applying spatial methodologies with R.
 
 ### Receive Project Updates
@@ -26,6 +24,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 ### View Past Webinars
 * **April 9, 2025** [Automating IPUMS USA Data Extraction and Management Workflows in R](https://i-guide.io/i-guide-vco/introduction-to-the-r-spatial-notebooks-automating-ipums-usa-data-extraction-and-management-workflows-in-r)
 * **January 15, 2025** [Introducing R Spatial Notebook Series: Supporting Reproducible Geospatial Analysis for the Social Sciences in R](https://i-guide.io/i-guide-vco/introducing-r-spatial-notebook-series-supporting-reproducible-geospatial-analysis-for-the-social-sciences-in-r)
+
+[Check out my article **Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series** published on the IPUMS Blog.](https://blog.popdata.org/introducing-the-r-spatial-notebook-series)
 
 ---
 
