@@ -25,7 +25,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 * **April 9, 2025** [Automating IPUMS USA Data Extraction and Management Workflows in R](https://i-guide.io/i-guide-vco/introduction-to-the-r-spatial-notebooks-automating-ipums-usa-data-extraction-and-management-workflows-in-r)
 * **January 15, 2025** [Introducing R Spatial Notebook Series: Supporting Reproducible Geospatial Analysis for the Social Sciences in R](https://i-guide.io/i-guide-vco/introducing-r-spatial-notebook-series-supporting-reproducible-geospatial-analysis-for-the-social-sciences-in-r)
 
-[Check out my article **Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series** published on the IPUMS Blog.](https://blog.popdata.org/introducing-the-r-spatial-notebook-series)
+### More Information
+* **April 4, 2025** [Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series](https://blog.popdata.org/introducing-the-r-spatial-notebook-series) article published on the IPUMS Blog
 
 ---
 
