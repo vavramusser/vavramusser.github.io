@@ -21,7 +21,7 @@ My work and personal goals focus on using data-driven methods and spatial perspe
 
 You can find out more about my past research and background by taking a look at my previous [publications](https://vavramusser.github.io/publications) and my [CV]( https://vavramusser.github.io/cv). The sections below provide additional updates on research and projects I am working on right now or have recently completed.
 
-If you would like to get in touch, I am available via [email](vavramusser@gmail.com) or for [remote meetings](https://go.oncehub.com/vavramusser).
+If you would like to get in touch, I am available via [email](vavramusser@gmail.com).
 
 
 **Dissertation Research**
