@@ -83,7 +83,7 @@ Do you have a specific topic or notebook idea you would like to see included in 
 *Chapter 7: Foundational Spatial Analyses*
 ------
 * **7.1** [Geometric Binary Predicates: The Building Blocks of Geometric Queries](https://platform.i-guide.io/notebooks/06a40182-91cc-4ed4-befb-7dad6ff99966)
-* **7.2** [Spatial Joins and Filter by Location](https://platform.i-guide.io/notebooks/a4f2cf0c-b777-4811-8aa1-6d5420795)
+* **7.2** [Spatial Joins and Filter by Location](https://platform.i-guide.io/notebooks/a4f2cf0c-b777-4811-8aa1-6d5420795ffe)
 * **7.3** [Distance and Nearest Neighbor Calculations](https://platform.i-guide.io/notebooks/02f7f46b-c45f-4a06-81e0-d7df3f81ca23)
 * **7.4** Buffer Analysis - *coming soon*
 
