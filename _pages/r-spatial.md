@@ -22,7 +22,8 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 Do you have a specific topic or notebook idea you would like to see included in the R Spatial Notebooks?  Drop a message in the [suggestion box!](https://us19.list-manage.com/survey?u=746bf8d366d6fbc99c699e714&id=54590a28ea&attribution=false).
 
 ### Upcoming Webinars and Past Webinar Recordings
-* *recording coming soon* **April 9, 2025** [Automating IPUMS USA Data Extraction and Management Workflows in R](https://i-guide.io/i-guide-vco/introduction-to-the-r-spatial-notebooks-automating-ipums-usa-data-extraction-and-management-workflows-in-r)
+* *REGISTRATION NOW OPEN!* **May 14, 2025** [Reproducible Mapping Workflows with IPUMS NHGIS and R](https://i-guide.io/i-guide-vco/reproducible-mapping-workflows-with-ipums-nhgis-and-r)
+* **April 9, 2025** [Automating IPUMS USA Data Extraction and Management Workflows in R](https://i-guide.io/i-guide-vco/introduction-to-the-r-spatial-notebooks-automating-ipums-usa-data-extraction-and-management-workflows-in-r)
 * **January 15, 2025** [Introducing the R Spatial Notebook Series: Supporting Reproducible Geospatial Analysis for the Social Sciences in R](https://i-guide.io/i-guide-vco/introducing-r-spatial-notebook-series-supporting-reproducible-geospatial-analysis-for-the-social-sciences-in-r)
 
 ### More Information
