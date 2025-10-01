@@ -37,8 +37,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 ------
 * **1.1** [Introduction to IPUMS and the IPUMS API](https://platform.i-guide.io/notebooks/82d3b176-e4e6-4307-8186-318a3fe6c81a)
 * **1.2** [Introduciton to Natural Earth](https://platform.i-guide.io/notebooks/924c7ca6-3d12-4a80-ab4d-814cc80f7f79)
-* **1.3** Introduction to OpenStreetMap (OSM) - *coming soon: release 2*
-* **1.4** Introduction to Stadia Maps and Stamen Maps - *coming soon: release 3*
+* **1.3** [Introduction to OpenStreetMap (OSM)](https://platform.i-guide.io/notebooks/e3276574-3c1e-4672-a2bf-d9d330444789)
+* **1.4** [Introduction to Stadia Maps and Stamen Maps](https://platform.i-guide.io/notebooks/fec21e60-f837-445e-8778-9dfb93edf43f)
 * **1.5** Introduction to Google Maps - *coming soon: release 3*
 * **1.6** Introduction to the National Land Cover Database (NLCD) - *coming soon: release 4*
 
@@ -61,7 +61,7 @@ Do you have a specific topic or notebook idea you would like to see included in 
 *Chapter 4: Open-Source GIS Data Acquisition and Extraction*
 ------
 * **4.1** [Importing Data from Natural Earth with rnaturalearth and rnaturalearthdata](https://platform.i-guide.io/notebooks/934e764c-d727-4bab-bc1c-198233484adc)
-* **4.2** Importing Data from OpenStreetMap (OSM) with osmdata - *coming soon: release 2*
+* **4.2** [Importing Data from OpenStreetMap (OSM) with osmdata](https://platform.i-guide.io/notebooks/9ca87a89-ae2a-40ee-88e9-7057c2fd5923)
 
 *Chapter 5: Data Cleaning, Preparation, and Exploratory Data Analysis (EDA)*
 ------
