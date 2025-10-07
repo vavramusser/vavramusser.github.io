@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - "/library.html"
 ---
-
-## The Library at the End of the World
 Work in Progress
 
 
