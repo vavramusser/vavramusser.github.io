@@ -30,8 +30,8 @@ main:
   - title: "Support My Work"
     url: https://www.buymeacoffee.com/vavramusser
 
-  - title "Portfolio"
-    url: /portfolio/
+#  - title "Portfolio"
+#    url: /portfolio/
 
 #  - title: "Secret"
 #    url: /directory
