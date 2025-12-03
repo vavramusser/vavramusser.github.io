@@ -76,12 +76,12 @@ Do you have a specific topic or notebook idea you would like to see included in 
 * **6.1** [Mapping Fundamentals](https://platform.i-guide.io/notebooks/dfe8fd72-f896-4dd2-9d61-6d9982394f1f)
 * **6.2** [Thematic and Reference Mapping](https://platform.i-guide.io/notebooks/2b9f579c-32b0-4078-af39-994bb31d50ec)
 * **6.3** [Choropleth Mapping](https://platform.i-guide.io/notebooks/f2f973df-2412-49f0-ad39-d80051f20d4d)
-* **6.4** Importing Basemaps from OpenStreetMap (OSM) with rosm
-* **6.5** Importing Basemaps from OpenStreetMap (OSM) with ggspatial
-* **6.6** Importing Basemaps from OpenStreetMap (OSM), Stadia Maps, Stamen Maps, and Google Maps with ggmap
-* **6.7** Importing Local Basemap Files with terra
-* **6.8** Interactive Mapping with Leaftlet
-* **6.9** Interactive Mapping with Shiny
+* **6.4** Basemaps with ggspatial
+* **6.5** Basemaps with ggmap
+* **6.6** Local Basemaps with terra
+* **6.7** Interactive Mapping with leaflet
+* **6.8** Interactive Mapping with Shiny
+* **6.9** Designing Interactive Maps
 
 *Chapter 7: Foundational Spatial Analyses*
 ------
