@@ -41,15 +41,15 @@ Do you have a specific topic or notebook idea you would like to see included in 
 * **1.2** [Introduciton to Natural Earth](https://platform.i-guide.io/notebooks/924c7ca6-3d12-4a80-ab4d-814cc80f7f79)
 * **1.3** [Introduction to OpenStreetMap (OSM)](https://platform.i-guide.io/notebooks/e3276574-3c1e-4672-a2bf-d9d330444789)
 * **1.4** [Introduction to Stadia Maps and Stamen Maps](https://platform.i-guide.io/notebooks/fec21e60-f837-445e-8778-9dfb93edf43f)
-* **1.5** Introduction to Google Maps - *coming soon: release 3*
-* **1.6** Introduction to the National Land Cover Database (NLCD) - *coming soon: release 4*
+* **1.5** Introduction to Google Maps
+* **1.6** Introduction to the National Land Cover Database (NLCD)
 
 *Chapter 2: Fundamentals of Spatial Data*
 ------
 * **2.1** [Introduction to sf: Reading, Writing, and Inspecting Vector Data](https://platform.i-guide.io/notebooks/9968babe-22e4-4c3d-98e2-d8b45e9672cd)
 * **2.2** [Working with CRS: Reprojection and Transformation](https://platform.i-guide.io/notebooks/76912ca7-73e4-437e-8ecf-0cb456bd7282)
 * **2.3** [Preparing Vector Data for Analysis](https://platform.i-guide.io/notebooks/44926d85-7f08-4774-a103-a22ff3876cad)
-* **2.4** Introduction to terra: Reading, Writing, and Inspecting Raster Data - *coming soon: release 4*
+* **2.4** Introduction to terra: Reading, Writing, and Inspecting Raster Data
 
 *Chapter 3: IPUMS Data Acquisition and Extraction*
 ------
@@ -58,7 +58,7 @@ Do you have a specific topic or notebook idea you would like to see included in 
   * **3.2.1** [IPUMS NHGIS Data Extraction Using ipumsr: Supplemental Exercise 1](https://platform.i-guide.io/notebooks/a74fff96-4db5-430f-b346-958b0c5f7b38)
   * **3.2.2** [IPUMS NHGIS Data Extraction Using ipumsr: Supplemental Exercise 2](https://platform.i-guide.io/notebooks/bc79eda6-8353-42ea-8cb7-5db70aa6febf)
   * **3.2.3** [IPUMS NHGIS Data Extraction Using ipumsr: Supplemental Exercise 3](https://platform.i-guide.io/notebooks/55dd96e5-fdf6-408f-a050-7fcd006d0575)
-* **3.3** IPUMS CPS Data Extraction Using ipumsr - *coming soon*
+* **3.3** IPUMS CPS Data Extraction Using ipumsr
 
 *Chapter 4: Open-Source GIS Data Acquisition and Extraction*
 ------
@@ -76,19 +76,19 @@ Do you have a specific topic or notebook idea you would like to see included in 
 * **6.1** [Mapping Fundamentals](https://platform.i-guide.io/notebooks/dfe8fd72-f896-4dd2-9d61-6d9982394f1f)
 * **6.2** [Thematic and Reference Mapping](https://platform.i-guide.io/notebooks/2b9f579c-32b0-4078-af39-994bb31d50ec)
 * **6.3** [Choropleth Mapping](https://platform.i-guide.io/notebooks/f2f973df-2412-49f0-ad39-d80051f20d4d)
-* **6.4** Importing Basemaps from OpenStreetMap (OSM) with rosm - *coming soon: release 2*
-* **6.5** Importing Basemaps from OpenStreetMap (OSM) with ggspatial - *coming soon: release 2*
-* **6.6** Importing Basemaps from OpenStreetMap (OSM), Stadia Maps, Stamen Maps, and Google Maps with ggmap - *coming soon: release 3*
-* **6.7** Importing Local Basemap Files with terra - *coming soon: release 4*
-* **6.8** Interactive Mapping with Leaftlet - *coming soon: release 3*
-* **6.9** Interactive Mapping with Shiny - *coming soon: release 3*
+* **6.4** Importing Basemaps from OpenStreetMap (OSM) with rosm
+* **6.5** Importing Basemaps from OpenStreetMap (OSM) with ggspatial
+* **6.6** Importing Basemaps from OpenStreetMap (OSM), Stadia Maps, Stamen Maps, and Google Maps with ggmap
+* **6.7** Importing Local Basemap Files with terra
+* **6.8** Interactive Mapping with Leaftlet
+* **6.9** Interactive Mapping with Shiny
 
 *Chapter 7: Foundational Spatial Analyses*
 ------
 * **7.1** [Geometric Binary Predicates: The Building Blocks of Geometric Queries](https://platform.i-guide.io/notebooks/06a40182-91cc-4ed4-befb-7dad6ff99966)
 * **7.2** [Spatial Joins and Filter by Location](https://platform.i-guide.io/notebooks/a4f2cf0c-b777-4811-8aa1-6d5420795ffe)
 * **7.3** [Distance and Nearest Neighbor Calculations](https://platform.i-guide.io/notebooks/02f7f46b-c45f-4a06-81e0-d7df3f81ca23)
-* **7.4** Buffer Analysis - *coming soon*
+* **7.4** Buffer Analysis
 
 *Chapter 8: Advanced Spatial Analyses*
 ------
@@ -96,8 +96,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 
 *Chapter 9: Raster Analysis*
 ------
-* **8.1** Raster Analysis and Aggregation - *coming soon: release 4*
-* **8.2** Raster Data Mapping and Visualization - *coming soon: release 4*
+* **8.1** Raster Analysis and Aggregation
+* **8.2** Raster Data Mapping and Visualization
 
 ---
 ### Project FAQs
