@@ -22,9 +22,11 @@ The R Spatial Notebooks Series is an ongoing project with new notebooks currentl
 Do you have a specific topic or notebook idea you would like to see included in the R Spatial Notebooks?  Drop a message in the [suggestion box!](https://us19.list-manage.com/survey?u=746bf8d366d6fbc99c699e714&id=54590a28ea&attribution=false).
 
 ### Upcoming Webinars and Past Webinar Recordings
+* **December 3, 2025** [Introduction to Mapping and Visualizing Social Data with R](https://i-guide.io/i-guide-vco/introduction-to-mapping-and-visualizing-social-data-with-r)
+* **October 1, 2025** [Building Spatial Workflows with Open Data in R](https://i-guide.io/i-guide-vco/building-spatial-workflows-with-open-data-in-r)
 * **May 14, 2025** [Reproducible Mapping Workflows with IPUMS NHGIS and R](https://i-guide.io/i-guide-vco/reproducible-mapping-workflows-with-ipums-nhgis-and-r)
 * **April 9, 2025** [Automating IPUMS USA Data Extraction and Management Workflows in R](https://i-guide.io/i-guide-vco/introduction-to-the-r-spatial-notebooks-automating-ipums-usa-data-extraction-and-management-workflows-in-r)
-* **January 15, 2025** [Introducing the R Spatial Notebook Series: Supporting Reproducible Geospatial Analysis for the Social Sciences in R](https://i-guide.io/i-guide-vco/introducing-r-spatial-notebook-series-supporting-reproducible-geospatial-analysis-for-the-social-sciences-in-r)
+* **January 15, 2025** [Introducing the R Spatial Notebook Series](https://i-guide.io/i-guide-vco/introducing-r-spatial-notebook-series-supporting-reproducible-geospatial-analysis-for-the-social-sciences-in-r)
 
 ### More Information
 * **April 4, 2025 IPUMS Blog Article** [Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series](https://blog.popdata.org/introducing-the-r-spatial-notebook-series)
@@ -71,8 +73,8 @@ Do you have a specific topic or notebook idea you would like to see included in 
 
 *Chapter 6: Mapping and Visualization*
 ------
-* **6.1** [Visualization and Quick Plots](https://platform.i-guide.io/notebooks/dfe8fd72-f896-4dd2-9d61-6d9982394f1f)
-* **6.2** [Mapping Point and Polygon Data](https://platform.i-guide.io/notebooks/2b9f579c-32b0-4078-af39-994bb31d50ec)
+* **6.1** [Mapping Fundamentals](https://platform.i-guide.io/notebooks/dfe8fd72-f896-4dd2-9d61-6d9982394f1f)
+* **6.2** [Thematic and Reference Mapping](https://platform.i-guide.io/notebooks/2b9f579c-32b0-4078-af39-994bb31d50ec)
 * **6.3** [Choropleth Mapping](https://platform.i-guide.io/notebooks/f2f973df-2412-49f0-ad39-d80051f20d4d)
 * **6.4** Importing Basemaps from OpenStreetMap (OSM) with rosm - *coming soon: release 2*
 * **6.5** Importing Basemaps from OpenStreetMap (OSM) with ggspatial - *coming soon: release 2*
